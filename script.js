@@ -4,9 +4,9 @@ const navbarCollapseDiv = document.querySelector('.navbar-collapse');
 navbarTogglerBtn.addEventListener('click', () =>{
     navbarCollapseDiv.classList.toggle('show-navbar-collapse');
     if(navbarCollapseDiv.classList.contains('show-navbar-collapse')){
-        navbarTogglerBtn.querySelector('img').src = "images/close.png"
+        navbarTogglerBtn.querySelector('img').src = "close.png"
     }
-    else(navbarTogglerBtn.querySelector('img').src = "images/menu.png")
+    else(navbarTogglerBtn.querySelector('img').src = "menu.png")
 })
 //fixed margin nav bar
 const header = document.querySelector('.header');
