@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>IKHWEZI MEDIA | GQEBERHA</title>
     <!--Custom css -->
-    <link rel ="stylesheet" href="css/main.css">
+    <link rel ="stylesheet" href="main.css">
     <!--Normalize css-->
     <link re l="stylesheet" href="normalize.css">
     <!--cdnjs-->
@@ -20,13 +20,13 @@
         <nav class="navbar flex">
             <div class="container flex">
                 <a href="index.html" class="navbar-brand flex">
-                    <img src="images/iKwezi media.png" alt="khwezi logo">
+                    <img src="iKwezi media.png" alt="khwezi logo">
                    
                     
 
                 </a>
                 <button type="button" class="navbar-toggler flex">
-                    <img src="images/menu.png">
+                    <img src="tomenu.png">
                 </button>
 
                 <div class="navbar-collapse">
@@ -52,7 +52,7 @@
             <div class="container">
               <div class="banner-image">
                 
-                <img src="images/v954-mook-03-removebg-preview.png" alt="banner image">
+                <img src="v954-mook-03-removebg-preview.png" alt="banner image">
             </div>
                 <div class="banner-text">
                   <h5><br><br><br>WANT PEOPLE TO FIND YOU ONLINE? LET US HELP YOU...</h5>
@@ -88,7 +88,7 @@
             <div class="services">
               <div class="service">
                 <div class="icon">
-                  <img src="images/002.png" alt="" />
+                  <img src="002.png" alt="" />
                   
                 </div>
                 <h2>Web Development <br></h2>
@@ -100,7 +100,7 @@
              
               <div class="service">
                 <div class="icon">
-                  <img src="images/003.png" alt="" />
+                  <img src="003.png" alt="" />
                 </div>
                 <h2>SEO</h2>
                 Local SEO is a search engine optimization (SEO) strategy that helps your business be more visible in local search results on Google. Any business that has a physical location or serves a geographic area can benefit from local SEO.
@@ -108,7 +108,8 @@
               </div>
               <div class="service">
                 <div class="icon">
-                  <img src="images/004.png" alt="" />
+                  <img src="
+004.png" alt="" />
                 </div>
                 <h2>Marketing</h2>
                We will help you to advertise your businesss. <br>
